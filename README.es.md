@@ -30,7 +30,7 @@ Como desarrollador web, estarás creando muchos HTML dinámicos y CSS usando alg
 
 En este ejercicio, debes crear el código HTML necesario para renderizar una tarjeta de perfil en función de una serie de variables que pueden cambiar. Aquí hay un ejemplo:
 
-![Tarjeta de perfil condicional](https://github.com/breatheco-de/exercise-conditional-profile-card/raw/master/preview.gif?raw=true)
+![Tarjeta de perfil condicional](n)
 
 Dentro de `src/app.js` hay una función llamada `render` que recibe un objeto `variables` y contiene la lógica para crear la mayoría del código HTML de nuestro sitio web.
 
